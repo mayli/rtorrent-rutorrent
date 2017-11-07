@@ -1,4 +1,4 @@
-FROM i386/alpine:3.3
+FROM i386/alpine:latest
 USER root
 
 # mediainfo and php-geoip left out

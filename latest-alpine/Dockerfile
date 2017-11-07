@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:latest
 USER root
 
 # mediainfo and php-geoip left out
